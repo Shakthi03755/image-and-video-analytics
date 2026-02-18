@@ -66,3 +66,5 @@ cv2_imshow(perspective_img)
 # Output :
 <img width="386" height="457" alt="image" src="https://github.com/user-attachments/assets/0a4615f9-4983-4860-b61d-6d7736c64502" />
 <img width="235" height="199" alt="image" src="https://github.com/user-attachments/assets/cdf4362d-afdb-4f91-af01-54bd1995d88b" />
+
+Virtual lab - Virtual lab - <img width="1599" height="764" alt="image" src="https://github.com/user-attachments/assets/5b0c1795-8717-407b-be3c-4500a598a506" />
